@@ -1411,6 +1411,7 @@ label.error{
   width: 35px;
   color: #fff;
   border-radius: 50%;
+  border: 1px solid white;
   margin: 0 5px;
   transition: all 0.3s ease;
 }
