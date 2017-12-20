@@ -145,9 +145,16 @@ li, ul {
 }
 
 .nopad {
-  padding-left: 0;
-  padding-right: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
+
+#responsive {
+  padding-bottom: 5rem;
+}
+
 
 .section-title {
   text-align: center;
