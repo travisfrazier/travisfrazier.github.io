@@ -823,6 +823,7 @@ li, ul {
 
 .portfolio-section {
   background: #f4f4f4;
+  padding-bottom: 3rem;
 }
 
 .portfolio-filter {
@@ -1553,4 +1554,22 @@ label.error{
   .about-top h2 {
     font-size: 20px;
   }
+}
+
+/* Added wireframe Section */
+#portfolio > div.col-md-12.text-center.wireframes > h3 {
+  padding: 3rem;
+}
+.wireframe-links a {
+  font-size: 2rem;
+  margin: 1rem;
+}
+.wireframe-links button {
+  width: 30rem;
+  background-color: #000000;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+.wireframe-links button:hover {
+  background-color: #303030;
 }
